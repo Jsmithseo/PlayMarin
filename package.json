@@ -18,7 +18,7 @@
     "bootstrap": "^4.5.0",
     "dotenv": "^8.2.0",
     "emotion": "^10.0.27",
-    "gatsby": "^2.29.0-next.3",
+    "gatsby": "^5.14.6",
     "gatsby-background-image": "^1.1.1",
     "gatsby-cli": "^2.12.65",
     "gatsby-image": "^2.3.1",
